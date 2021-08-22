@@ -12,5 +12,6 @@ public class Hello01 {
         System.out.println("傻瓜");
         System.out.println("太笨了");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
