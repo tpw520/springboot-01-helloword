@@ -8,5 +8,6 @@ public class Hello01 {
         map.put("dada","yaya");
 
         System.out.println(map.get("dada"));
+        System.out.println("scsdvvv");
     }
 }
